@@ -1,0 +1,1 @@
+este diccionario es basico.
